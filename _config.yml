@@ -1,1 +1,10 @@
 image-base-url: https://unforgettableevents.blob.core.windows.net/website-images/
+
+contact:
+  email: info@unforgettableevents.co
+  phone: 209.614.6691
+  name: Unforgettable Events
+  street_address: 1520 E. Hatch Rd
+  city: Modesto
+  state: CA
+  zip: 95351

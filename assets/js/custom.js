@@ -280,7 +280,7 @@
 		 * Google Map
 		/* ---------------------------------------------- */
 
-		var mapLocation = new google.maps.LatLng(34.031428,-118.2071542,17);
+		var mapLocation = new google.maps.LatLng(37.608136,-120.9718502);
 
 		var $mapis = $('#map');
 
@@ -311,7 +311,7 @@
 				icon: image,
 				title: 'Vortex',
 				infoWindow: {
-					content: '<p><strong>Vortex</strong><br/>121 Somewhere Ave, Suite 123<br/>P: (123) 456-7890<br/>Australia</p>'
+					content: '<p><strong>Unforgettable Events</strong><br/>1520 E. Hatch Rd.<br/>P: (209) 614-6691</p>'
 				}
 			});
 
