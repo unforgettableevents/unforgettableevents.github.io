@@ -8,3 +8,6 @@ contact:
   city: Modesto
   state: CA
   zip: 95351
+
+collections:
+- services
