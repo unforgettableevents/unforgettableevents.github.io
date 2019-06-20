@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Birthdays
-subTitle: Birthday
-categories: Birthday
+subTitle: Birthdays
+categories: Birthdays
 imageUrl: https://unforgettableevents.blob.core.windows.net/website-images/services/birthdays.jpg
 ---
