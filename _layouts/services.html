@@ -9,7 +9,7 @@ layout: default
         <!-- DO NOT DELETE THIS DIV -->
         <div class="grid-sizer"></div>
 
-        {% assign sorted_services = site.services | sort: 'sort' %}
+        {% assign sorted_services = site.services | sort: "sort" %}
         {% for service in sorted_services %}
             {% include portfolio-item.html style=service.style categories=service.categories href="#" imageUrl=service.imageUrl text=service.title subText=service.subTitle %}
         {% endfor %}
